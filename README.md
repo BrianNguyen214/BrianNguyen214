@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **BrianNguyen214/BrianNguyen214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Brian Nguyen
+[![Linkedin Badge](https://img.shields.io/badge/-brianknguyen99-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brianknguyen99/)](https://www.linkedin.com/in/brianknguyen99/)
+[![Gmail Badge](https://img.shields.io/badge/-brianknguyen99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brianknguyen99@gmail.com)](mailto:brianknguyen99@gmail.com)
+
+## Hi there 👋
+
+I'm Brian. I am a student at CU Boulder. 
